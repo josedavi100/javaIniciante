@@ -1,9 +1,6 @@
-10. Ler  o  raio  de  um  círculo. Em  seguida,  imprima  o
-comprimento e a área do círculo que possui esse raio.
+10. Ler  o  raio  de  um  cÃ­rculo. Em  seguida,  imprima  o
+comprimento e a Ã¡rea do cÃ­rculo que possui esse raio.
 	
-
-
-
 	package exercicio10;
 	import static java.lang.Math.pow;
 	import java.util.Scanner;
@@ -16,8 +13,8 @@ comprimento e a área do círculo que possui esse raio.
         		raio = ler.nextDouble();
         		comp = 2*pi*raio;
         		area = pi*pow(raio, 2);
-        		System.out.printf("O comprimento da Circunferência é: %.2f m^2", comp);
-        		System.out.printf("\nE a sua área é: %.2f m^2\n", area);
+        		System.out.printf("O comprimento da CircunferÃªncia Ã©: %.2f m^2", comp);
+        		System.out.printf("\nE a sua Ã¡rea Ã©: %.2f m^2\n", area);
     		}
     
 	}

@@ -1,6 +1,6 @@
-12. Ler  um  caracter  op  representando  uma  operação
-aritmética (+, -, *, /) e em seguida dois números reais a e b.
-Imprimir a expressão matemática junto com o seu resultado no formato: a op b = resultado
+12. Ler  um  caracter  op  representando  uma  operaÃ§Ã£o
+aritmÃ©tica (+, -, *, /) e em seguida dois nÃºmeros reais a e b.
+Imprimir a expressÃ£o matemÃ¡tica junto com o seu resultado no formato: a op b = resultado
 
 
 package exercicio12;

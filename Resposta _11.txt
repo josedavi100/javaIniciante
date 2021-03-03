@@ -1,5 +1,5 @@
-11. Ler  um  número  inteiro  e  verificar  se  é  ou  não 
-múltiplo de 5, imprimindo mensagem para cada caso.
+11. Ler  um  nÃºmero  inteiro  e  verificar  se  Ã©  ou  nÃ£o 
+mÃºltiplo de 5, imprimindo mensagem para cada caso.
 
 
 	package exercicio11;
@@ -12,9 +12,9 @@ múltiplo de 5, imprimindo mensagem para cada caso.
         		System.out.println("Digite um numero: ");
         		num = ler.nextInt();
         		if(num%5 == 0){
-            			System.out.println("Esse numero é multiplo de 5");
+            			System.out.println("Esse numero Ã© multiplo de 5");
         		} else {
-            			System.out.println("Esse numero não é multiplo de 5");
+            			System.out.println("Esse numero nÃ£o Ã© multiplo de 5");
         		}
     		}
 	}

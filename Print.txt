@@ -6,7 +6,7 @@ nome e na linha abaixo, o nome da disciplina.
 	public class Exercicio1 {
     	public static void main(String[] args) {
         	//Exibe meu nome e na linha abaixo a disciplina.
-        	System.out.println("Nome: José Davi Fernandes Sobreira\nDisciplina: Programação I");
+        	System.out.println("Nome: JosÃ© Davi Fernandes Sobreira\nDisciplina: ProgramaÃ§Ã£o I");
     	}
     
 	}

@@ -1,5 +1,5 @@
-4. Escreva um programa em Java que inicialize duas variáveis inteiras na declaração,
-   depois calcule e imprima o resto da divisão da 1ª. pela 2ª.	
+4. Escreva um programa em Java que inicialize duas variÃ¡veis inteiras na declaraÃ§Ã£o,
+   depois calcule e imprima o resto da divisÃ£o da 1Âª. pela 2Âª.	
 
 
 	package exercicio4;

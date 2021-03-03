@@ -1,5 +1,5 @@
 8. Ler dois valores reais e imprimir o resultado da
-soma, subtração, multiplicação e divisão.
+soma, subtraÃ§Ã£o, multiplicaÃ§Ã£o e divisÃ£o.
 	
 
 	package exercicio8;
@@ -14,9 +14,9 @@ soma, subtração, multiplicação e divisão.
         		System.out.println("Digite outro numero: ");
         		num2 = ler.nextFloat();
         		System.out.println("Soma: " + (num1+num2));
-        		System.out.println("Subtração: " + (num1-num2));
-        		System.out.println("Multiplicação: " + (num1*num2));
-        		System.out.println("Divisão: " + (num1/num2));
+        		System.out.println("SubtraÃ§Ã£o: " + (num1-num2));
+        		System.out.println("MultiplicaÃ§Ã£o: " + (num1*num2));
+        		System.out.println("DivisÃ£o: " + (num1/num2));
     		}
     
 	}

@@ -1,6 +1,6 @@
-13.  Ler um número de alunos n. Em seguida,
+13.  Ler um nÃºmero de alunos n. Em seguida,
 ler as notas dos n alunos e imprimir, ao final,
-a média da turma. Faça uma solução com for e outra solução com while.
+a mÃ©dia da turma. FaÃ§a uma soluÃ§Ã£o com for e outra soluÃ§Ã£o com while.
 
 
 
@@ -25,7 +25,7 @@ public class Exercicio13 {
             media = media + nalunos[i];
         }
         media = media / n;
-        System.out.printf("A Média da turma é: %.2f\n", media);
+        System.out.printf("A MÃ©dia da turma Ã©: %.2f\n", media);
     }
     
 }
@@ -53,6 +53,6 @@ public class Exercicio13part2 {
             media = media + nalunos;
         }
         media = media / n;
-        System.out.printf("A Média da turma é: %.2f\n", media);
+        System.out.printf("A MÃ©dia da turma Ã©: %.2f\n", media);
     } 
 }

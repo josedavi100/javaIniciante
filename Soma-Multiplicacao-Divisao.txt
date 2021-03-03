@@ -1,0 +1,23 @@
+6.Escreva um programa em Java que inicialize duas variáveis reais do tipo double, calcule e imprima,
+  após mensagens adequadas, o resultado da soma, da subtração, do produto e da divisão. Depois,
+  verifique se a soma do primeiro valor com o segundo valor é maior ou igual ao dobro do 2º. valor.
+
+
+	package exercicio6;
+	public class Exercicio6 {
+
+    		public static void main(String[] args) {
+        		double num1 = 10.6;
+        		double num2 = 5.5;
+        		System.out.print("Soma: " + (num1+num2));     
+        		System.out.print("\nSubtração" + (num1-num2));
+        		System.out.print("\nMultiplicação: " + (num1*num2));
+        		System.out.print("\nDivisão: " + (num1/num2));
+        		if((num1+num2) >= (num2*2)){
+            			System.out.print("\nA soma do primero valor com o segundo é maior ou igual ao dobro do segundo\n");
+        		}else{
+            			System.out.print("A soma do primeiro valor com o segundo não é maior ou igual ao dobro do segundo\n");
+        		}
+    		}
+    
+	}

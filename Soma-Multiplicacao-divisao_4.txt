@@ -1,4 +1,4 @@
-9. Qual o resultado das expressıes abaixo?
+9. Qual o resultado das express√µes abaixo?
 
 a) 5 * 4 / 6 + 7  
 b) 5 * 4 / (6 + 7) 
